@@ -1,0 +1,11 @@
+sourceDirs:
+- notebooks
+- diary
+
+sourceFiles:
+- index.md
+
+copyDirs:
+- css
+
+copyFiles: []
